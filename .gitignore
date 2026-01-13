@@ -1,0 +1,14 @@
+# Binaries
+/log-analyzer
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test artifacts
+*.test
+*.out
+coverage.txt
+
+# OS generated
+.DS_Store
